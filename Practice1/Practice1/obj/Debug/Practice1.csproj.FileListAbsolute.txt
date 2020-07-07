@@ -1,0 +1,14 @@
+C:\Users\Valentina\source\repos\Practice1\Practice1\bin\Debug\Practice1.exe.config
+C:\Users\Valentina\source\repos\Practice1\Practice1\bin\Debug\Practice1.exe
+C:\Users\Valentina\source\repos\Practice1\Practice1\bin\Debug\Practice1.pdb
+C:\Users\Valentina\source\repos\Practice1\Practice1\bin\Debug\MetroFramework.Design.dll
+C:\Users\Valentina\source\repos\Practice1\Practice1\bin\Debug\MetroFramework.dll
+C:\Users\Valentina\source\repos\Practice1\Practice1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Valentina\source\repos\Practice1\Practice1\obj\Debug\Practice1.csprojAssemblyReference.cache
+C:\Users\Valentina\source\repos\Practice1\Practice1\obj\Debug\Practice1.Properties.Resources.resources
+C:\Users\Valentina\source\repos\Practice1\Practice1\obj\Debug\Practice1.csproj.GenerateResource.cache
+C:\Users\Valentina\source\repos\Practice1\Practice1\obj\Debug\Practice1.csproj.CoreCompileInputs.cache
+C:\Users\Valentina\source\repos\Practice1\Practice1\obj\Debug\Practice1.csproj.CopyComplete
+C:\Users\Valentina\source\repos\Practice1\Practice1\obj\Debug\Practice1.exe
+C:\Users\Valentina\source\repos\Practice1\Practice1\obj\Debug\Practice1.pdb
+C:\Users\Valentina\source\repos\Practice1\Practice1\obj\Debug\Practice1.Form1.resources
