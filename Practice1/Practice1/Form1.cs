@@ -362,6 +362,9 @@ namespace Practice1
         cover the room. Include an option to clear selections. Place both the type of floor covering and the price in a single control, such as a ComboBox, and use 
         string manipulation techniques to strip the price out of the string.
          */
-
+        public double Hyu()
+        {
+            return 0;
+        }
     }
 }
